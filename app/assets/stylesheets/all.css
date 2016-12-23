@@ -1,0 +1,89 @@
+.main-model{ 
+	background-color: #008CBA;
+	padding: 28px 50px 40px 30px;
+	text-align: center;
+    color: white;
+}
+
+.button {
+    background-color: paleturquoise; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button3 {border-radius: 8px;}
+
+table, td, th {    
+    border: 1px solid #ddd;
+    text-align: left;
+    text-align: center;
+    color: #008CBA;
+}
+ 
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 15px;
+}
+
+.center {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 150px;
+    margin-left: 256px;
+    width: 50%;
+    border: 2px solid #008CBA;
+    padding: 28px 50px 55px 70px;
+}
+
+.center h2{ 
+    color: #008CBA;
+    margin: 0px 0px 46px 244px;
+}
+
+.field input[type=text] {
+    width: 38%;
+    padding: 4px 4px;
+    border-color: #008CBA;
+}
+.field input[type=password] {
+    width: 38%;
+    padding: 4px 4px;
+    border-color: #008CBA;
+}
+
+.field{ 
+	color: #008CBA;
+}
+.field strong{
+	    width: 250px;
+    float: left;
+}
+
+.field label{ 
+	width: 250px;
+	float: left;
+}
+.main-container{
+    width: 96%;
+    margin: 20px auto;
+    background-color: antiquewhite;
+    padding: 20px;
+}
+.text-center{
+    text-align: center;
+}
+.link{
+    margin-left: 50%;
+}

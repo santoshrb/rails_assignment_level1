@@ -1,0 +1,15 @@
+current directory: /home/santosh/item_cart/vendor/bundle/gems/websocket-driver-0.6.4/ext/websocket-driver
+/home/santosh/.rvm/rubies/ruby-2.3.0/bin/ruby -r ./siteconf20161223-21254-1iee21w.rb extconf.rb
+creating Makefile
+
+current directory: /home/santosh/item_cart/vendor/bundle/gems/websocket-driver-0.6.4/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/santosh/item_cart/vendor/bundle/gems/websocket-driver-0.6.4/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/santosh/item_cart/vendor/bundle/gems/websocket-driver-0.6.4/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20161223-21254-7uu7qj
